@@ -1,1 +1,2 @@
-{"token":"NjExNTcyNzk5MDY4MzA3NDY3.XVWJcg.SjCkU3NOZ3tEqIQhmrYra9OQNmQ","client":"611572799068307467","tag":"o!","case":"true","separator":"\\s+"}
+const token = process.env.token;
+{"token":"token","client":"611572799068307467","tag":"o!","case":"true","separator":"\\s+"}
