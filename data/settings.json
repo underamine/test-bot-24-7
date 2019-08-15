@@ -1,2 +1,2 @@
-const TOKEN = process.env.token;
-{"token":"token;","client":"611572799068307467","tag":"o!","case":"true","separator":"\\s+"}
+const TOKEN = process.env.TOKEN;
+{"token":"TOKEN","client":"611572799068307467","tag":"o!","case":"true","separator":"\\s+"}
