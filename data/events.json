@@ -1,0 +1,1 @@
+[null,{"name":"NewEvent","temp":"test","event-type":"2","actions":[{"channel":"4","varName":"","message":"Allah","storage":"0","varName2":"","name":"Send Message"}]},{"name":"NewEvent","temp":"","event-type":"1","actions":[{"status":"1","name":"Set Bot Status"}]}]
